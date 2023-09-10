@@ -1,2 +1,2 @@
-# Java
-Basic java programs
+# python
+Basic python programs
